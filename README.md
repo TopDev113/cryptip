@@ -1,7 +1,5 @@
 # Cryptip
-## Get cryptocurrency price information everywhere.
 
-Cryptip is a simple browser extension which adds cryptocurrency price information when you hover over cryptocurrency symbols. Try it out [here](http://shawntabrizi.com/cryptip/)!
 
 Cryptip uses the CoinMarketCap API, which supports over 1000 different cryptocurrencies, and can show price information with respect to BTC or 31 different fiat currencies.
 
